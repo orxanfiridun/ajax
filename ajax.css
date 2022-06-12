@@ -1,0 +1,15 @@
+#main{
+    display: flex;
+}
+#container{
+    flex: 4;
+}
+#inputlar{
+    flex: 1;
+}
+input{
+    margin-top: 10px;
+}
+#qeydet{
+    display: flex;
+}
